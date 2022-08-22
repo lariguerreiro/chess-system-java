@@ -1,5 +1,6 @@
 package application;
 
+
 import boardgame.Position;
 
 public class Program {
@@ -11,5 +12,4 @@ public class Program {
 		System.out.println(pos);
 
 	}
-
 }
